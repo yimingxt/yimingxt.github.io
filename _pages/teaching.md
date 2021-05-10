@@ -9,51 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Current Teaching
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+I am not teaching this semester
 
-Work experience
+## Past Teaching
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Instructor
+* Math 1320 - Engineering Calculus II (Spring 2021)
+* Math 1320 - Engineering Calculus II (Spring 2021)
+* Math 1320 - Engineering Calculus II (Fall 2020)
+* Math 13 - Bridge to Engineering Calculus (Fall 2020)
+* Math 2210 - Calculus III (Summer 2020)
+* Math 1310 - Engineering Calculus I (Spring 2020)
+* Math 1060 - Trigonometry (Fall 2019)
+* Math 1100 - Business Calculus (Spring 2019)
+* Math 1090 - Business Algebra (Fall 2018)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Lab Teaching Assistant
+* MATH 2250 - Differential Equations and Linear Algebra (Spring 2018)
+* MATH 1321 - Accelerated Engineering Calculus II (Fall 2017)
+* MATH 2250 - Differential Equations and Linear Algebra (Spring 2017)
+* MATH 2250 - Differential Equations and Linear Algebra (Fall 2016)

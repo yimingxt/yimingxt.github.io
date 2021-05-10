@@ -17,7 +17,7 @@ redirect_from:
 * *Google's PageRank*  
   Applied Math Collective, University of Utah, 2019.03
 
-## Conference and Poster
+## Conferences and Workshops
 * ICERM workshop in Advances and Challenges in Hyperbolic Conservation Laws, Virtual Conference, 2021.05.
 * SIAM Conference on Computational Science and Engineering (CSE21), Virtual Conference, 2021.03.
 * Machine Learning in Science & Engineering, Virtual Conference, 2020.12.

@@ -10,11 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Current Teaching
-======
 I am not teaching this semester
 
 ## Past Teaching
-======
 ### Instructor
 * Math 1320 - Engineering Calculus II (Spring 2021)
 * Math 1320 - Engineering Calculus II (Spring 2021)

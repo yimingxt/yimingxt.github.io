@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## In preparation
 1. Dihan Dai, Akil Narayan, and Yekaterina Epshteyn, Non-Dissipative Structure-Preserving Function Approximation
-2. Yiming Xu, and Dihan Dai, Archetypal Analysis on Graphs
+2. Yiming Xu, Dong Wang, and Dihan Dai, Archetypal Analysis on Graphs
 
 ## Submitted
 1. Dihan Dai, Yekaterina Epshteyn, and Akil Narayan. "Hyperbolicity-Preserving and Well-Balanced Stochastic Galerkin Method for Two-Dimensional Shallow Water Equations." [[arXiv]](https://arxiv.org/abs/2104.11268)

@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Talks and Poster
-* Stochastic Galerkin Method for Shallow Water Equations (Poster) <\br>
+* Stochastic Galerkin Method for Shallow Water Equations (Poster)<\br>
   ICERM workshop in Advances and Challenges in Hyperbolic Conservation Laws
 
 

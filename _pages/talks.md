@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Talks and Poster
+## Talks and Posters
 * *Stochastic Galerkin Method for Shallow Water Equations (Poster)*<br/>
   ICERM workshop in Advances and Challenges in Hyperbolic Conservation Laws, 2021.05
 * *Stochastic Galerkin Method for Shallow Water Equations* (invited)<br/>

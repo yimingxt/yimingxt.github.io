@@ -9,3 +9,12 @@ redirect_from:
 ---
 
 I am a fifth-year PhD student in Deparment of Mathematics, University of Utah. My advisors are [Yekaterina Epshteyn](http://www.math.utah.edu/~epshteyn/) and [Akil Narayan](http://www.sci.utah.edu/~akil/). I am interested in developing structure-preserving numerical methods for hyperbolic systems of conservation laws with uncertainty. I am also interested in machine learning and deep learning. Here is my [CV](https://dihandai.github.io/files/CV.pdf).
+
+### An animation for the propagation of the uncertainty in shallow water equations
+The following video shows how the uncertainty in the shallow water system propogate as time changes. The numerical example is take from this [poster](https://dihandai.github.io/files/Poster_ICERM2021.pdf).
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="">
+    <source src="path/to/wb1-2-ten.mp4" type="video/mp4">
+  </video>
+</figure>

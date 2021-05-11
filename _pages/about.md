@@ -12,4 +12,4 @@ I am a fifth-year PhD student in Deparment of Mathematics, University of Utah. M
 
 [Here](https://dihandai.github.io/wb1-2-ten.mp4) is a video shows how the uncertainty in the shallow water system propogate as time changes. The numerical example is taken from this [poster](https://dihandai.github.io/files/ICERMPoster_Dihan-Dai.pdf).
 
-[![Movie](https://dihandai.github.io/wb1-2-cover.png =250x)](https://dihandai.github.io/wb1-2-ten.mp4)
+[![Movie](<img src="https://dihandai.github.io/wb1-2-cover.png" alt="drawing" width="200"/>)](https://dihandai.github.io/wb1-2-ten.mp4)

@@ -11,9 +11,9 @@ redirect_from:
 
 ## Talks and Posters
 * *Stochastic Galerkin Method for Shallow Water Equations (Poster)*<br/>
-  ICERM workshop in Advances and Challenges in Hyperbolic Conservation Laws, 2021.05.
+  ICERM workshop in Advances and Challenges in Hyperbolic Conservation Laws, 2021.05.[[Poster]](https://dihandai.github.io/files/Poster_ICERM2021.pdf)
 * *Stochastic Galerkin Method for Shallow Water Equations* (invited)<br/>
-  Applied Math Seminar, University of Utah, 2021.03.
+  Applied Math Seminar, University of Utah, 2021.03. [[Slides]](https://dihandai.github.io/files/presentation_utah.pdf)
 * *Google's PageRank*  
   Applied Math Collective, University of Utah, 2019.03.
 

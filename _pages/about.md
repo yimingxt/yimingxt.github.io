@@ -14,3 +14,5 @@ See below for a video showing how the uncertainty in the shallow water system pr
 
 
 [![movie](https://dihandai.github.io/wb1-2-cover.png)](https://dihandai.github.io/wb1-2-ten.mp4)
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VKI9yEshNh9KQ7zxQ4uzqjn52Xg7o7zTkno-mwnXcAg&cl=ffffff&w=a"></script>

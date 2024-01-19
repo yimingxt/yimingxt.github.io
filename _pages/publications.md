@@ -8,7 +8,7 @@ author_profile: true
 ## Preprints
 
 1. Ruijian Han, Wenlu Tang, <strong>Yiming Xu</strong>, [Statistical inference for pairwise comparison models](https://arxiv.org/abs/2401.08463), arxiv (2024)
-2. Reza Gheissari, Aukosh Jagannath, <strong>Yiming Xu</strong>, [Finding planted cliques using Markov chain Monte Carlo](https://arxiv.org/abs/2401.08463), arxiv (2023)
+2. Reza Gheissari, Aukosh Jagannath, <strong>Yiming Xu</strong>, [Finding planted cliques using Markov chain Monte Carlo](https://arxiv.org/abs/2311.07540), arxiv (2023)
 3. Ruijian Han, <strong>Yiming Xu</strong>, [A unified analysis of likelihood-based estimators in the Plackett-Luce model](https://arxiv.org/abs/2306.02821), arxiv (2023)
 4. Ruijian Han, Boris Kramer, Dongjin Lee, Akil Narayan, <strong>Yiming Xu</strong>, [An approximate control variates approach to multifidelity distribution estimation](https://arxiv.org/abs/2303.06422), arxiv (2023)
 5. Katy Craig, Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, [Wasserstein archetypal analysis](https://arxiv.org/abs/2210.14298), arxiv (2022)

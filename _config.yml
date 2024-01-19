@@ -80,23 +80,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dihan Dai"
-  avatar           : "profile.jpg"
-  bio              : "Research Assistant at Scientific Computing and Imaging(SCI) Institute, University of Utah"
-  location         : "Location"
+  name             : "Kailong Zhang"
+  avatar           : "KZL.jpg"
+  bio              : "Research Assistant, Center for Renewable Carbon, University of Tennessee Knoxville"
+  location         : "2506 Jacob Dr, Knoxville, TN 37996"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "dai@math.utah.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=eLA6lHcAAAAJ&hl=en"
+  email            : "kzhang24@vols.utk.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        : "BARDKENCH"
+  bitbucket        : # "BARDKENCH"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Dihan Dai"
+  github           : # "Dihan Dai"
   google_plus      :
   keybase          :
   instagram        :
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "ddh111617"
+  steam            : # "ddh111617"
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :

@@ -83,7 +83,7 @@ author:
   name             : "Yiming Xu"
   avatar           : "profile11.png"
   bio              : "Postdoctoral Fellow, Department of Statistics and Actuarial Science, University of Waterloo"
-  location         : "Location"
+  location         : # "Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sH3l1yMAAAAJ&hl=en"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "ddh111617"
+  steam            : # "ddh111617"
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :

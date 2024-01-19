@@ -7,10 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<p>
 I am a Postdoctoral Fellow in the Department of Statistics and Actuarial Science at the University of Waterloo. I obtained my Ph.D. in Mathematics from the University of Utah in 2022, followed by a one-year stint at Wells Fargo.
+</p>
 
+<p>
 My research interest is mathematical data. Specifically, I work on randomized approximation and sampling, network data analysis, and multifidelity methods. As a problem-driven researcher, I enjoy learning new ideas from all walks of life and finding connections between them. My MBTI personality type is INFP.
+</p>
+
+<p>
+Note: I no longer have access to the old webpage located at [utah](https://www.math.utah.edu/~yxu/). Consequently, I won't be able to make any further updates to it.
+</p>
 
 
 

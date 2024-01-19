@@ -20,3 +20,9 @@ See below my work overview!
 
 ![image](https://kailongzh.github.io/images/research_overview.png)
 
+
+My partner is a great data science researcher [here](https://yimingxt.github.io/). 
+
+
+
+

@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student in Deparment of Mathematics, University of Utah. My advisors are [Yekaterina Epshteyn](http://www.math.utah.edu/~epshteyn/) and [Akil Narayan](http://www.sci.utah.edu/~akil/). Broadly speaking, my research interests lie in the fields of approximation theory, scientific computing, uncertainty quantification, optimization, and data science. I am currently on the job market and expect to graduate in April 2022. Here is my [CV](https://dihandai.github.io/files/CV.pdf).
+Hello and welcome! I'm a passionate third-year PhD student at the Center for Renewable Carbon at the University of Tennessee, Knoxville. My advisor is [Mi Li](https://mili.utk.edu/). My research journey is dedicated to the innovative world of functional materials, particularly those derived from cellulose biomass.
 
-See below for a video showing how the uncertainty in the shallow water system propogate as time changes. The numerical example is taken from this [poster](https://dihandai.github.io/files/ICERMPoster_Dihan-Dai.pdf).
+At the heart of my work is a commitment to sustainability. By exploring and designing novel materials from cellulose biomass, I aim to contribute to a greener, more sustainable future. Here is my [CV](https://kailongzh.github.io/files/CV.pdf).
+

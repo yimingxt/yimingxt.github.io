@@ -10,22 +10,17 @@ redirect_from:
 {% include base_path %}
 
 ## Current Teaching
-I am not teaching this semester
+I will be teaching Computational Inference in the spring term 2024. 
 
 ## Past Teaching
+
 ### Instructor
-* Math 1320 - Engineering Calculus II (Spring 2021)
-* Math 1320 - Engineering Calculus II (Spring 2021)
-* Math 1320 - Engineering Calculus II (Fall 2020)
-* Math 13 - Bridge to Engineering Calculus (Fall 2020)
-* Math 2210 - Calculus III (Summer 2020)
-* Math 1310 - Engineering Calculus I (Spring 2020)
-* Math 1060 - Trigonometry (Fall 2019)
+* Math 1070 - Introduction to Statistical Inference (Spring 2020)
+* Math 1070 - Introduction to Statistical Inference (Fall 2019)
+* Math 1220 - Calculus II (Summer 2019)
 * Math 1100 - Business Calculus (Spring 2019)
-* Math 1090 - Business Algebra (Fall 2018)
+* Math 1090 - Business Calculus (Fall 2018)
 
 ### Lab Teaching Assistant
 * MATH 2250 - Differential Equations and Linear Algebra (Spring 2018)
-* MATH 1321 - Accelerated Engineering Calculus II (Fall 2017)
-* MATH 2250 - Differential Equations and Linear Algebra (Spring 2017)
-* MATH 2250 - Differential Equations and Linear Algebra (Fall 2016)
+* MATH 1320 - Engineering Calculus II (Fall 2017)

@@ -12,8 +12,14 @@ author_profile: true
 
 
 ## Peer-Reviewed Journals
-1. Dihan Dai, Yekaterina Epshteyn, and Akil Narayan. "Hyperbolicity-Preserving and Well-Balanced Stochastic Galerkin Method for Shallow Water Equations" SIAM Journal on Scientific Computing 43.2 (2021): A929-A952. [[doi]](https://doi.org/10.1137/20M1360736)
+1. <strong>Yiming Xu</strong>, Akil Narayan, Hoang Tran, Clayton G. Webster, [Analysis of the ratio of l1 and l2 norms in compressed sensing](https://www.sciencedirect.com/science/article/abs/pii/S1063520321000567), Appl. Comput. Harmon. Anal. (2021)
+
 2. <strong>Yiming Xu</strong>, Akil Narayan, Hoang Tran, Clayton G. Webster. [Analysis of the ratio of l1 and l2 norms in compressed sensing](https://www.sciencedirect.com/science/article/abs/pii/S1063520321000567), Appl. Comput. Harmon. Anal. (2021)
 
 
 ## Conference Proceedings
+
+1. Shibo Li, Michael Penwarden, <strong>Yiming Xu</strong>, Conor Tillinghast, Akil Narayan, Robert M. Kirby, Shandian Zhe, [Meta learning of interface conditions for multi-domain physics-informed neural networks](https://openreview.net/pdf?id=e694Xvz6Q6), ICML (2023)
+
+2. Zheng Wang, <strong>Yiming Xu</strong>, Conor Tillinghast, Shibo Li, Akil Narayan, Shandian Zhe, [Nonparametric embeddings of sparse high-order interaction events](https://proceedings.mlr.press/v162/wang22ah.html), ICML (2022)
+

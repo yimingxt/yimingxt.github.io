@@ -10,16 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Talks and Posters
-* *Stochastic Galerkin Method for Shallow Water Equations (Poster)*<br/>
-  ICERM workshop in Advances and Challenges in Hyperbolic Conservation Laws, 2021.05.[[Poster]](https://dihandai.github.io/files/ICERMPoster_Dihan-Dai.pdf)
-* *Stochastic Galerkin Method for Shallow Water Equations* (invited)<br/>
-  Applied Math Seminar, University of Utah, 2021.03. [[Slides]](https://dihandai.github.io/files/presentation_utah.pdf)
-* *Google's PageRank*  
-  Applied Math Collective, University of Utah, 2019.03.
 
-## Conferences and Workshops
-* ICERM workshop in Advances and Challenges in Hyperbolic Conservation Laws, Virtual Conference, 2021.05.
-* SIAM Conference on Computational Science and Engineering (CSE21), Virtual Conference, 2021.03.
-* Machine Learning in Science & Engineering, Virtual Conference, 2020.12.
-* Second Symposium on Machine Learning and Dynamical Systems, Virtual Conference, 2020.09.
-* The Second SIAM Wasatch Student Chapters Conference, Utah State University, Logan, UT, USA, 2019.04.
+Zhang, K. & Li, M.*. Investigating the potential of cellulose as a template for metal-organic frameworks. UT/ORNL Center for Molecular Biophysics, Oak Ridge, TN, October 2023. (Oral)
+Zhang, K. & Li, M.*. Cellulose nanofibers templated metal organic frameworks for fluorescent-visual detection and adsorption of pesticides. ACS Spring 2023, Indianapolis, IN, March 2023. (Oral)
+Zhang, K. & Li, M.*. Sulfonated cellulose nanofibers templated metal–organic frameworks for the rapid dye removal. Frontiers in Biorefining, St. Simons Island, GA, October 2022. (Poster)
+Zhang, K. & Li, M.* (2022). Antimicrobial food packaging with cinnamaldehyde stabilized by ethyl lauroyl arginate and cellulose nanocrystals. USDA S-1075 2022, Houston, TX, July 2022. (Poster)
+Zhang, K., Ren, T., Harper, D., & Li, M.* (2022). Development of antimicrobial films with cinnamaldehyde stabilized by ethyl lauroyl arginate and cellulose nanocrystals. ACS Spring 2022, San Diego, CA, March 2022. (Oral)
+Zhang, K. & Hu, X. Rapid determination of β-glucan content in oat based on near infrared spectroscopy technique, China Oat and Buckwheat Industry Conference, Ankang, Shaanxi, China, June 2019. (Oral)
+Zhang, K. & Hu, X. Relationship between solvent retention capacity of oat flour and β-glucan content and molecular weight, National Oat and Buckwheat Nutrition & Processing Industry Development Forum, Baicheng, Jilin, China, October 2018. (Oral)

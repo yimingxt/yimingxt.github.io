@@ -16,7 +16,7 @@ My research interest is mathematical data. Specifically, I work on randomized ap
 </p>
 
 <p>
-Note: I no longer have access to the old webpage located at [utah](https://www.math.utah.edu/~yxu/). Consequently, I won't be able to make any further updates to it.
+Note: I no longer have access to the old webpage located at <a href="https://www.math.utah.edu/~yxu/">[utah]</a>. Consequently, I won't be able to make any further updates to it.
 </p>
 
 <p>

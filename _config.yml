@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dihan Dai"
+title                    : "Yiming Xu"
 title_separator          : "-"
-name                     : &name "Dihan Dai"
-description              : &description "Dihan's personal webpage"
-url                      : https://dihandai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yiming Xu"
+description              : &description "Yiming's Personal Webpage"
+url                      : https://yimingxt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DihanDai/dihandai.github.io"
+repository               : "yimingxt/yimingxt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,23 +80,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dihan Dai"
+  name             : "Yiming Xu"
   avatar           : "profile.jpg"
-  bio              : "Research Assistant at Scientific Computing and Imaging(SCI) Institute, University of Utah"
+  bio              : "Postdoctoral Fellow, University of Waterloo"
   location         : "Location"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "dai@math.utah.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=sH3l1yMAAAAJ&hl=en"
+  email            : "yiming2358@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        : "BARDKENCH"
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Dihan Dai"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :

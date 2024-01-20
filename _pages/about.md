@@ -42,4 +42,4 @@ Note: I no longer have access to the old webpage located at <a href="https://www
 
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d0707&w=200&t=n&d=2oex5D8qKbBfWJUKlE7fKLMjNMnbSwuTVbAniKBUy8w&co=70bcf2&cmo=a8ba33&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=2oex5D8qKbBfWJUKlE7fKLMjNMnbSwuTVbAniKBUy8w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>

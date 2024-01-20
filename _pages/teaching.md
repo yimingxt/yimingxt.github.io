@@ -17,7 +17,7 @@ PhD student Kailong Zhang and Assistant Professor Mi Li at the Center for Renewa
 
 
       
-### [SMaRT interns complete summer projects](https://crc.tennessee.edu/smart-interns-complete-summer-projects/)
+### [Makayla Hamilton was mentored by Kailong Zhang for her SMaRT summer project](https://crc.tennessee.edu/smart-interns-complete-summer-projects/)
 Aug 10, 2023  
 Makayla Hamilton, a rising Junior at Tougaloo College, has recently made strides in renewable and functional materials. As part of her Summer SMaRT Internship, Makayla worked with Kailong Zhang at the Center for Renewable Carbon under the guidance of Dr. Li’s Laboratory. Their project focused on the innovative design of a luminescent wood film with the potential to detect volatile organic compounds.  
 ![image](https://kailongzh.github.io/files/MakaylaMentor.jpg)

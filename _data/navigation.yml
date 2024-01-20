@@ -6,6 +6,9 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Research Spotlights"
+    url: /portfolio/ 
+    
   - title: "News and Awards"
     url: /teaching/    
     

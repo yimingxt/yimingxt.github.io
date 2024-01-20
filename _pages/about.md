@@ -17,15 +17,7 @@ At the heart of my work is a commitment to sustainability. By exploring and desi
 
 
 
-
-
-
-
-
-
-
-                  
-   
+![image](https://kailongzh.github.io/files/cellulose.png)
 
 
   

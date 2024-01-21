@@ -12,7 +12,7 @@ I am a Postdoctoral Fellow in the Department of Statistics and Actuarial Science
 </p>
 
 <p>
-My research interest is in mathematics of data. Specifically, I work on randomized algorithms, network data analysis, and multifidelity methods. As a problem-driven researcher, I enjoy learning new ideas from all walks of life and finding connections between them. My MBTI personality type is INFP.
+My research interest is in mathematics of data. Specifically, I work on randomized algorithms, network data analysis, and multifidelity methods. As a problem-driven researcher, I enjoy learning new ideas from all walks of life and finding connections between them. 
 </p>
 
 <p>

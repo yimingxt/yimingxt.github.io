@@ -18,7 +18,7 @@ author_profile: true
 
 ## Peer-Reviewed Journals
 
-1. Nuojin Cheng, Osman A. Malik, <strong>Yiming Xu</strong>, Stephen Becker, Alireza Doostan, Akil Narayan, [Subsampling of parametric models with bi-fidelity boosting](https://arxiv.org/abs/2209.05705), SIAM-ASA J. Uncertain. Quantif. (to appear)
+1. Nuojin Cheng, Osman A. Malik, <strong>Yiming Xu</strong>, Stephen Becker, Alireza Doostan, Akil Narayan, [Subsampling of parametric models with bi-fidelity boosting](https://arxiv.org/abs/2209.05705), SIAM-ASA J. Uncertain. Quantif. (2024)
 2. <strong>Yiming Xu</strong>, Akil Narayan, [Randomized weakly admissible meshes](https://www.sciencedirect.com/science/article/abs/pii/S0021904522001071), J. Approx. Theory (2023)
 3. <strong>Yiming Xu</strong>, Akil Narayan, [Budget-limited distribution learning in multifidelity problems](https://link.springer.com/article/10.1007/s00211-022-01337-5), Numer. Math. (2023)
 4. Ruijian Han, <strong>Yiming Xu</strong>, Kani Chen, [A general pairwise comparison model for extremely sparse networks](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2053137?journalCode=uasa20), J. Amer. Statist. Assoc. (2022)

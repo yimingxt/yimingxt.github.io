@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p>
-I am a Postdoctoral Fellow in the Department of Statistics and Actuarial Science at the University of Waterloo. I obtained my Ph.D. in Mathematics from the University of Utah in 2022, followed by a one-year stint at Wells Fargo.
+I am a Postdoctoral Fellow in the Department of Statistics and Actuarial Science at the University of Waterloo. I obtained my Ph.D. in Mathematics from the University of Utah in 2022, followed by a one-year stint at Wells Fargo. This fall, I will be joining the Department of Mathematics at the University of Kentucky as an assistant professor.
 </p>
 
 <p>

@@ -18,7 +18,7 @@ author_profile: true
 
 ## Peer-Reviewed Journals
 
-1. Ruijian Han, Boris Kramer, Dongjin Lee, Akil Narayan, <strong>Yiming Xu</strong>, [An approximate control variates approach to multifidelity distribution estimation](https://arxiv.org/abs/2303.06422), SIAM-ASA J. Uncertain. Quantif. (minor revision)
+1. Ruijian Han, Boris Kramer, Dongjin Lee, Akil Narayan, <strong>Yiming Xu</strong>, [An approximate control variates approach to multifidelity distribution estimation](https://arxiv.org/abs/2303.06422), SIAM-ASA J. Uncertain. Quantif. (2024)
 2. Nuojin Cheng, Osman A. Malik, <strong>Yiming Xu</strong>, Stephen Becker, Alireza Doostan, Akil Narayan, [Subsampling of parametric models with bi-fidelity boosting](https://arxiv.org/abs/2209.05705), SIAM-ASA J. Uncertain. Quantif. (2024)
 3. <strong>Yiming Xu</strong>, Akil Narayan, [Randomized weakly admissible meshes](https://www.sciencedirect.com/science/article/abs/pii/S0021904522001071), J. Approx. Theory (2023)
 4. <strong>Yiming Xu</strong>, Akil Narayan, [Budget-limited distribution learning in multifidelity problems](https://link.springer.com/article/10.1007/s00211-022-01337-5), Numer. Math. (2023)

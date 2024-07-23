@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 <p>
-I am currently a Postdoctoral Fellow in the Department of Statistics and Actuarial Science at the University of Waterloo. I earned my Ph.D. in Mathematics from the University of Utah in 2022 and subsequently spent a year at Wells Fargo. Beginning in Fall 2024, I will join the University of Kentucky as an assistant professor.
+I am an Assistant Professor in the Department of Mathematics at the University of Kentucky. 
+  
+During 09/23 to 08/24, I was a Postdoctoral Fellow in the Department of Statistics and Actuarial Science at the University of Waterloo mentored by <a href="https://aukosh.github.io/">Aukosh Jagannath</a>. Prior to that, I worked as a Quantitative Analytics Specialist at Wells Fargo Bank for a year. I obtained my Ph.D. in Mathematics from the University of Utah in 2022 under joint supervision of <a href="https://www.math.utah.edu/~alberts/">Tom Alberts</a> and <a href="https://www.sci.utah.edu/~akil/index.html">Akil Narayan</a>. 
 </p>
 
 <p>
-My research interest is in mathematics of data. Specifically, I work on randomized algorithms, network data analysis, and multifidelity methods. As a problem-driven researcher, I enjoy learning new ideas from all walks of life and finding connections between them. 
+My research interest is in mathematics of data. Specifically, I work on randomized algorithms, network data analysis, and multifidelity methods. As a problem-driven researcher, I enjoy learning new ideas and open to potential collaboration.  
 </p>
 
 <p>

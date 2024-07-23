@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Current Teaching
-I will be teaching STAT 440/840: Computational Inference in the spring term 2024. 
+I will be teaching CS/MA 321: Introduction to Numerical Methods in Fall 2024. 
 
 ## Past Teaching
 

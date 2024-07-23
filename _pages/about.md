@@ -20,7 +20,8 @@ My research interests lie in the mathematics of data. Specifically, I work on ra
 </p>
 
 <p>
-Note: I no longer have access to the old webpage located at <a href="https://www.math.utah.edu/~yxu/">[utah]</a>. Consequently, I won't be able to make any further updates to it.
+
+
 </p>
 
 <p>

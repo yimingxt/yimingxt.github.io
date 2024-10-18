@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-## Randomized algorithms (sampling and approximation)
+## Randomized sampling and approximation
 1. Katy Craig, Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, [Wasserstein archetypal analysis](https://arxiv.org/abs/2210.14298), Appl. Math. Opt. (2024)
 2. Reza Gheissari, Aukosh Jagannath, <strong>Yiming Xu</strong>, [Finding planted cliques using Markov chain Monte Carlo](https://arxiv.org/abs/2311.07540), arxiv (2023)
 3. <strong>Yiming Xu</strong>, Akil Narayan, [Randomized weakly admissible meshes](https://www.sciencedirect.com/science/article/abs/pii/S0021904522001071), J. Approx. Theory (2023)
@@ -38,6 +38,7 @@ author_profile: true
 
 ## Others
 
-1. Shibo Li, Michael Penwarden, <strong>Yiming Xu</strong>, Conor Tillinghast, Akil Narayan, Robert M. Kirby, Shandian Zhe, [Meta learning of interface conditions for multi-domain physics-informed neural networks](https://openreview.net/pdf?id=e694Xvz6Q6), ICML (2023)
-2. Zheng Wang, <strong>Yiming Xu</strong>, Conor Tillinghast, Shibo Li, Akil Narayan, Shandian Zhe, [Nonparametric embeddings of sparse high-order interaction events](https://proceedings.mlr.press/v162/wang22ah.html), ICML (2022)
+1. Zhitong Xu, Da Long, <strong>Yiming Xu</strong>, Guang Yang, Shandian Zhe, Houman Owhadi, [Toward Efficient Kernel-Based Solvers for Nonlinear PDEs](https://arxiv.org/abs/2410.11165v1), arxiv (2024)
+2. Shibo Li, Michael Penwarden, <strong>Yiming Xu</strong>, Conor Tillinghast, Akil Narayan, Robert M. Kirby, Shandian Zhe, [Meta learning of interface conditions for multi-domain physics-informed neural networks](https://openreview.net/pdf?id=e694Xvz6Q6), ICML (2023)
+3. Zheng Wang, <strong>Yiming Xu</strong>, Conor Tillinghast, Shibo Li, Akil Narayan, Shandian Zhe, [Nonparametric embeddings of sparse high-order interaction events](https://proceedings.mlr.press/v162/wang22ah.html), ICML (2022)
 

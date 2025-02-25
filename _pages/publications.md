@@ -8,8 +8,8 @@ author_profile: true
 
 
 ## Randomized sampling and approximation
-1. Katy Craig, Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, [Wasserstein archetypal analysis](https://arxiv.org/abs/2210.14298), Appl. Math. Opt. (2024)
-2. Reza Gheissari, Aukosh Jagannath, <strong>Yiming Xu</strong>, [Finding planted cliques using Markov chain Monte Carlo](https://arxiv.org/abs/2311.07540), arxiv (2023)
+1. Reza Gheissari, Aukosh Jagannath, <strong>Yiming Xu</strong>, [Finding planted cliques using Markov chain Monte Carlo](https://arxiv.org/abs/2311.07540), SIMODS (2025)
+2. Katy Craig, Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, [Wasserstein archetypal analysis](https://arxiv.org/abs/2210.14298), Appl. Math. Opt. (2024)
 3. <strong>Yiming Xu</strong>, Akil Narayan, [Randomized weakly admissible meshes](https://www.sciencedirect.com/science/article/abs/pii/S0021904522001071), J. Approx. Theory (2023)
 4. Osman A. Malik, <strong>Yiming Xu</strong>, Nuojin Cheng, Stephen Becker, Alireza Doostan, Akil Narayan, [Fast algorithms for monotone lower subsets of Kronecker least squares problems](https://arxiv.org/abs/2209.05662), arxiv (2022)
 5. Ruijian Han, Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, [Probabilistic methods for approximate archetypal analysis](https://academic.oup.com/imaiai/article/12/1/466/6576183), Inf. Inference (2022)

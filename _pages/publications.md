@@ -38,7 +38,7 @@ author_profile: true
 
 ## Others
 
-1. Zhitong Xu, Da Long, <strong>Yiming Xu</strong>, Guang Yang, Shandian Zhe, Houman Owhadi, [Toward Efficient Kernel-Based Solvers for Nonlinear PDEs](https://arxiv.org/abs/2410.11165v1), arxiv (2024)
+1. Zhitong Xu, Da Long, <strong>Yiming Xu</strong>, Guang Yang, Shandian Zhe, Houman Owhadi, [Toward Efficient Kernel-Based Solvers for Nonlinear PDEs](https://arxiv.org/abs/2410.11165v1), ICML (2025)
 2. Shibo Li, Michael Penwarden, <strong>Yiming Xu</strong>, Conor Tillinghast, Akil Narayan, Robert M. Kirby, Shandian Zhe, [Meta learning of interface conditions for multi-domain physics-informed neural networks](https://openreview.net/pdf?id=e694Xvz6Q6), ICML (2023)
 3. Zheng Wang, <strong>Yiming Xu</strong>, Conor Tillinghast, Shibo Li, Akil Narayan, Shandian Zhe, [Nonparametric embeddings of sparse high-order interaction events](https://proceedings.mlr.press/v162/wang22ah.html), ICML (2022)
 

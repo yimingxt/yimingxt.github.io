@@ -23,7 +23,7 @@ author_profile: true
 
 1. Pinjun Dong, Ruijian Han, Binyan Jiang, <strong>Yiming Xu</strong>, [Statistical ranking with dyanmic covariates](https://arxiv.org/abs/2406.16507), arxiv (2024)
 2. Ruijian Han, Wenlu Tang, <strong>Yiming Xu</strong>, [Statistical inference for pairwise comparison models](https://arxiv.org/abs/2401.08463), arxiv (2024)
-3. Ruijian Han, <strong>Yiming Xu</strong>, [A unified analysis of likelihood-based estimators in the Plackett-Luce model](https://arxiv.org/abs/2306.02821), arxiv (2023) 
+3. Ruijian Han, <strong>Yiming Xu</strong>, [A unified analysis of likelihood-based estimators in the Plackett-Luce model](https://arxiv.org/abs/2306.02821), Ann. Stat. (2025) 
 4. Ruijian Han, <strong>Yiming Xu</strong>, Kani Chen, [A general pairwise comparison model for extremely sparse networks](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2053137?journalCode=uasa20), J. Amer. Statist. Assoc. (2023)
 
 

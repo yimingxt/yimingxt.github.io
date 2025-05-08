@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-## Randomized sampling and approximation
+## Random sampling and approximation
 1. Reza Gheissari, Aukosh Jagannath, <strong>Yiming Xu</strong>, [Finding planted cliques using Markov chain Monte Carlo](https://arxiv.org/abs/2311.07540), SIAM J. Math. Data Sci. (to appear)
 2. Katy Craig, Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, [Wasserstein archetypal analysis](https://arxiv.org/abs/2210.14298), Appl. Math. Opt. (2024)
 3. <strong>Yiming Xu</strong>, Akil Narayan, [Randomized weakly admissible meshes](https://www.sciencedirect.com/science/article/abs/pii/S0021904522001071), J. Approx. Theory (2023)
@@ -18,8 +18,7 @@ author_profile: true
 
 
 
-
-## Comparison data analysis and choice models
+## Statistical ranking
 
 1. Pinjun Dong, Ruijian Han, Binyan Jiang, <strong>Yiming Xu</strong>, [Statistical ranking with dyanmic covariates](https://arxiv.org/abs/2406.16507), arxiv (2024)
 2. Ruijian Han, Wenlu Tang, <strong>Yiming Xu</strong>, [Statistical inference for pairwise comparison models](https://arxiv.org/abs/2401.08463), arxiv (2024)

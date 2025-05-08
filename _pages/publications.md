@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Random sampling and approximation
-1. Reza Gheissari, Aukosh Jagannath, <strong>Yiming Xu</strong>, [Finding planted cliques using Markov chain Monte Carlo](https://arxiv.org/abs/2311.07540), SIAM J. Math. Data Sci. (to appear)
+1. Reza Gheissari, Aukosh Jagannath, <strong>Yiming Xu</strong>, [Finding planted cliques using gradient descent](https://arxiv.org/abs/2311.07540), SIAM J. Math. Data Sci. (to appear)
 2. Katy Craig, Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, [Wasserstein archetypal analysis](https://arxiv.org/abs/2210.14298), Appl. Math. Opt. (2024)
 3. <strong>Yiming Xu</strong>, Akil Narayan, [Randomized weakly admissible meshes](https://www.sciencedirect.com/science/article/abs/pii/S0021904522001071), J. Approx. Theory (2023)
 4. Osman A. Malik, <strong>Yiming Xu</strong>, Nuojin Cheng, Stephen Becker, Alireza Doostan, Akil Narayan, [Fast algorithms for least square problems with Kronecker lower subsets](https://arxiv.org/abs/2209.05662), arxiv (2025)

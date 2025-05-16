@@ -20,7 +20,7 @@ author_profile: true
 
 ## Statistical ranking
 
-1. Pinjun Dong, Ruijian Han, Binyan Jiang, <strong>Yiming Xu</strong>, [Statistical ranking with dyanmic covariates](https://arxiv.org/abs/2406.16507), arxiv (2024)
+1. Pinjun Dong, Ruijian Han, Binyan Jiang, <strong>Yiming Xu</strong>, [Statistical ranking with dynamic covariates](https://arxiv.org/abs/2406.16507), arxiv (2025)
 2. Ruijian Han, Wenlu Tang, <strong>Yiming Xu</strong>, [Statistical inference for pairwise comparison models](https://arxiv.org/abs/2401.08463), arxiv (2024)
 3. Ruijian Han, <strong>Yiming Xu</strong>, [A unified analysis of likelihood-based estimators in the Plackett-Luce model](https://arxiv.org/abs/2306.02821), Ann. Stat. (to appear) 
 4. Ruijian Han, <strong>Yiming Xu</strong>, Kani Chen, [A general pairwise comparison model for extremely sparse networks](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2053137?journalCode=uasa20), J. Amer. Statist. Assoc. (2023)
@@ -29,10 +29,11 @@ author_profile: true
 
 ## Multifidelity methods
 
-1. Ruijian Han, Boris Kramer, Dongjin Lee, Akil Narayan, <strong>Yiming Xu</strong>, [An approximate control variates approach to multifidelity distribution estimation]([https://arxiv.org/abs/2303.06422](https://epubs.siam.org/doi/abs/10.1137/23M1584307?journalCode=sjuqa3)), SIAM-ASA J. Uncertain. Quantif. (2024)
-2. Nuojin Cheng, Osman A. Malik, <strong>Yiming Xu</strong>, Stephen Becker, Alireza Doostan, Akil Narayan, [Subsampling of parametric models with bi-fidelity boosting]([https://arxiv.org/abs/2209.05705](https://epubs.siam.org/doi/abs/10.1137/22M1524989?journalCode=sjuqa3)), SIAM-ASA J. Uncertain. Quantif. (2024)
-3. <strong>Yiming Xu</strong>, Akil Narayan, [Budget-limited distribution learning in multifidelity problems](https://link.springer.com/article/10.1007/s00211-022-01337-5), Numer. Math. (2023)
-4. <strong>Yiming Xu</strong>, Vahid Keshavarzzadeh, Robert M. Kirby, Akil Narayan, [A bandit-learning approach to multifidelity approximation](https://epubs.siam.org/doi/abs/10.1137/21M1408312?journalCode=sjoce3), SIAM J. Sci. Comput. (2022)
+1. Thomas Dixon, Alex Gorodetsky, John Jakeman, Akil Narayan, <strong>Yiming Xu</strong>, [Optimally balancing exploration and exploitation to automate multi-fidelity statistical estimation](https://arxiv.org/abs/2505.09828), arxiv (2025)
+2. Ruijian Han, Boris Kramer, Dongjin Lee, Akil Narayan, <strong>Yiming Xu</strong>, [An approximate control variates approach to multifidelity distribution estimation](https://epubs.siam.org/doi/abs/10.1137/23M1584307?journalCode=sjuqa3), SIAM-ASA J. Uncertain. Quantif. (2024)
+3. Nuojin Cheng, Osman A. Malik, <strong>Yiming Xu</strong>, Stephen Becker, Alireza Doostan, Akil Narayan, [Subsampling of parametric models with bi-fidelity boosting](https://epubs.siam.org/doi/abs/10.1137/22M1524989?journalCode=sjuqa3), SIAM-ASA J. Uncertain. Quantif. (2024)
+4. <strong>Yiming Xu</strong>, Akil Narayan, [Budget-limited distribution learning in multifidelity problems](https://link.springer.com/article/10.1007/s00211-022-01337-5), Numer. Math. (2023)
+5. <strong>Yiming Xu</strong>, Vahid Keshavarzzadeh, Robert M. Kirby, Akil Narayan, [A bandit-learning approach to multifidelity approximation](https://epubs.siam.org/doi/abs/10.1137/21M1408312?journalCode=sjoce3), SIAM J. Sci. Comput. (2022)
 
 
 ## Others

@@ -10,11 +10,13 @@ redirect_from:
 {% include base_path %}
 
 ## Current Teaching
-I will be teaching CS/MA 321: Introduction to Numerical Methods in Fall 2024. 
+I will be teaching CS/MA 522: Matrix Theory and Numeric Linear Algebra and MA 323: Math Intro to Data Science in Fall 2025. 
 
 ## Past Teaching
 
 ### Instructor
+* MA/STA 417 - Decision Making Under Uncertainty (Spring 2025)
+* CS/MA 321 - Introduction to Numerical Methods (Fall 2024)
 * Math 1070 - Introduction to Statistical Inference (Spring 2020)
 * Math 1070 - Introduction to Statistical Inference (Fall 2019)
 * Math 1220 - Calculus II (Summer 2019)

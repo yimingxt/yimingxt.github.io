@@ -8,13 +8,14 @@ author_profile: true
 
 
 ## Random sampling and approximation
-1. Reza Gheissari, Aukosh Jagannath, <strong>Yiming Xu</strong>, [Finding planted cliques using gradient descent](https://epubs.siam.org/doi/abs/10.1137/24M1680489), SIAM J. Math. Data Sci. (2025)
-2. Katy Craig, Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, [Wasserstein archetypal analysis](https://arxiv.org/abs/2210.14298), Appl. Math. Opt. (2024)
-3. <strong>Yiming Xu</strong>, Akil Narayan, [Randomized weakly admissible meshes](https://www.sciencedirect.com/science/article/abs/pii/S0021904522001071), J. Approx. Theory (2023)
-4. Osman A. Malik, <strong>Yiming Xu</strong>, Nuojin Cheng, Stephen Becker, Alireza Doostan, Akil Narayan, [Fast algorithms for least square problems with Kronecker lower subsets](https://arxiv.org/abs/2209.05662), arxiv (2025)
-5. Ruijian Han, Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, [Probabilistic methods for approximate archetypal analysis](https://academic.oup.com/imaiai/article/12/1/466/6576183), Inf. Inference (2023)
-6. <strong>Yiming Xu</strong>, Akil Narayan, Hoang Tran, Clayton G. Webster, [Analysis of the ratio of l1 and l2 norms in compressed sensing](https://www.sciencedirect.com/science/article/abs/pii/S1063520321000567), Appl. Comput. Harmon. Anal. (2021)
-7. Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, Dominique Zosso, [Consistency of archetypal analysis](https://epubs.siam.org/doi/abs/10.1137/20M1331792), SIAM J. Math. Data Sci. (2021)
+1. Tom Alberts, <strong>Yiming Xu</strong>, Qiang Ye, [Joint stochastic localization and applications](https://arxiv.org/abs/2505.13410), arxiv (2025)
+2. Reza Gheissari, Aukosh Jagannath, <strong>Yiming Xu</strong>, [Finding planted cliques using gradient descent](https://epubs.siam.org/doi/abs/10.1137/24M1680489), SIAM J. Math. Data Sci. (2025)
+3. Katy Craig, Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, [Wasserstein archetypal analysis](https://link.springer.com/article/10.1007/s00245-024-10175-w), Appl. Math. Opt. (2024)
+4. <strong>Yiming Xu</strong>, Akil Narayan, [Randomized weakly admissible meshes](https://www.sciencedirect.com/science/article/abs/pii/S0021904522001071), J. Approx. Theory (2023)
+5. Osman A. Malik, <strong>Yiming Xu</strong>, Nuojin Cheng, Stephen Becker, Alireza Doostan, Akil Narayan, [Fast algorithms for least square problems with Kronecker lower subsets](https://arxiv.org/abs/2209.05662), arxiv (2025)
+6. Ruijian Han, Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, [Probabilistic methods for approximate archetypal analysis](https://academic.oup.com/imaiai/article/12/1/466/6576183), Inf. Inference (2023)
+7. <strong>Yiming Xu</strong>, Akil Narayan, Hoang Tran, Clayton G. Webster, [Analysis of the ratio of l1 and l2 norms in compressed sensing](https://www.sciencedirect.com/science/article/abs/pii/S1063520321000567), Appl. Comput. Harmon. Anal. (2021)
+8. Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, Dominique Zosso, [Consistency of archetypal analysis](https://epubs.siam.org/doi/abs/10.1137/20M1331792), SIAM J. Math. Data Sci. (2021)
 
 
 

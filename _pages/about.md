@@ -16,7 +16,7 @@ I did my postdoc at the University of Waterloo with <a href="https://aukosh.gith
 </p>
 
 <p>
-My research interests lie in the mathematics of data. Specifically, I work on random sampling and approximation, theory of statistical learning, and multifidelity methods. As a problem-driven researcher, I enjoy learning new ideas and am open to potential collaborations.
+My research interests lie in the mathematics of data. Specifically, I work on random sampling and approximation, statistical learning, and multifidelity methods. As a problem-driven researcher, I enjoy learning new ideas and am open to potential collaborations.
 </p>
 
 <p>

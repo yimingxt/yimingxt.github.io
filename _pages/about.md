@@ -12,11 +12,11 @@ I am an Assistant Professor in the Department of Mathematics at the University o
 </p>
 
 <p>
-I did my postdoc at the University of Waterloo with <a href="https://aukosh.github.io/" style="text-decoration: none;">Aukosh Jagannath</a>. Prior to that, I worked as a Quantitative Analyst at Wells Fargo Bank. I obtained my Ph.D. in Mathematics from the University of Utah in 2022 under the supervision of <a href="https://www.math.utah.edu/~alberts/" style="text-decoration: none;">Tom Alberts</a> and <a href="https://www.sci.utah.edu/~akil/index.html" style="text-decoration: none;">Akil Narayan</a>.
+I did my postdoc at the University of Waterloo with <a href="https://aukosh.github.io/" style="text-decoration: none;">Aukosh Jagannath</a>. Prior to that, I worked as a Quantitative Analyst at Wells Fargo Bank. I obtained my Ph.D. in Mathematics from the University of Utah in 2022.
 </p>
 
 <p>
-My research interests lie in the mathematics of data. Specifically, I work on random sampling and approximation, statistical ranking, and multifidelity methods. As a problem-driven researcher, I enjoy learning new ideas and am open to potential collaborations.
+My research interests lie in the mathematics of data. Specifically, I work on random sampling and approximation, theory of statistical learning, and multifidelity methods. As a problem-driven researcher, I enjoy learning new ideas and am open to potential collaborations.
 </p>
 
 <p>

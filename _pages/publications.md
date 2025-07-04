@@ -9,10 +9,11 @@ author_profile: true
 
 ## Preprints
 
-1. Tom Alberts, <strong>Yiming Xu</strong>, Qiang Ye, [Joint stochastic localization and applications](https://arxiv.org/abs/2505.13410), arxiv (2025)
-2. Thomas Dixon, Alex Gorodetsky, John Jakeman, Akil Narayan, <strong>Yiming Xu</strong>, [Optimally balancing exploration and exploitation to automate multi-fidelity statistical estimation](https://arxiv.org/abs/2505.09828), arxiv (2025)
-3. Osman A. Malik, <strong>Yiming Xu</strong>, Nuojin Cheng, Stephen Becker, Alireza Doostan, Akil Narayan, [Fast algorithms for least square problems with Kronecker lower subsets](https://arxiv.org/abs/2209.05662), arxiv (2025)
-4. Ruijian Han, Wenlu Tang, <strong>Yiming Xu</strong>, [Statistical inference for pairwise comparison models](https://arxiv.org/abs/2401.08463), arxiv (2024)
+1. Ben Adcock, Bernhard Hientzsch, Akil Narayan, <strong>Yiming Xu</strong>, [Hybrid least squares for learning functions from highly noisy data](https://arxiv.org/abs/2507.02215), arxiv (2025)
+2. Tom Alberts, <strong>Yiming Xu</strong>, Qiang Ye, [Joint stochastic localization and applications](https://arxiv.org/abs/2505.13410), arxiv (2025)
+3. Thomas Dixon, Alex Gorodetsky, John Jakeman, Akil Narayan, <strong>Yiming Xu</strong>, [Optimally balancing exploration and exploitation to automate multi-fidelity statistical estimation](https://arxiv.org/abs/2505.09828), arxiv (2025)
+4. Osman A. Malik, <strong>Yiming Xu</strong>, Nuojin Cheng, Stephen Becker, Alireza Doostan, Akil Narayan, [Fast algorithms for least square problems with Kronecker lower subsets](https://arxiv.org/abs/2209.05662), arxiv (2025)
+5. Ruijian Han, Wenlu Tang, <strong>Yiming Xu</strong>, [Statistical inference for pairwise comparison models](https://arxiv.org/abs/2401.08463), arxiv (2024)
 
 
    

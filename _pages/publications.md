@@ -38,8 +38,8 @@ author_profile: true
 ## Multifidelity methods 
 
 1. Thomas Dixon, Alex Gorodetsky, John Jakeman, Akil Narayan, <strong>Yiming Xu</strong>, [Optimally balancing exploration and exploitation to automate multi-fidelity statistical estimation](https://arxiv.org/abs/2505.09828), arxiv (2025)
-2. Ruijian Han, Boris Kramer, Dongjin Lee, Akil Narayan, <strong>Yiming Xu</strong>, [An approximate control variates approach to multifidelity distribution estimation](https://epubs.siam.org/doi/abs/10.1137/23M1584307?journalCode=sjuqa3), SIAM-ASA J. Uncertain. Quantif. (2024)
-3. Nuojin Cheng, Osman A. Malik, <strong>Yiming Xu</strong>, Stephen Becker, Alireza Doostan, Akil Narayan, [Subsampling of parametric models with bi-fidelity boosting](https://epubs.siam.org/doi/abs/10.1137/22M1524989?journalCode=sjuqa3), SIAM-ASA J. Uncertain. Quantif. (2024)
+2. Ruijian Han, Boris Kramer, Dongjin Lee, Akil Narayan, <strong>Yiming Xu</strong>, [An approximate control variates approach to multifidelity distribution estimation](https://epubs.siam.org/doi/abs/10.1137/23M1584307?journalCode=sjuqa3), SIAM/ASA J. Uncertain. Quantif. (2024)
+3. Nuojin Cheng, Osman A. Malik, <strong>Yiming Xu</strong>, Stephen Becker, Alireza Doostan, Akil Narayan, [Subsampling of parametric models with bi-fidelity boosting](https://epubs.siam.org/doi/abs/10.1137/22M1524989?journalCode=sjuqa3), SIAM/ASA J. Uncertain. Quantif. (2024)
 4. <strong>Yiming Xu</strong>, Akil Narayan, [Budget-limited distribution learning in multifidelity problems](https://link.springer.com/article/10.1007/s00211-022-01337-5), Numer. Math. (2023)
 5. <strong>Yiming Xu</strong>, Vahid Keshavarzzadeh, Robert M. Kirby, Akil Narayan, [A bandit-learning approach to multifidelity approximation](https://epubs.siam.org/doi/abs/10.1137/21M1408312?journalCode=sjoce3), SIAM J. Sci. Comput. (2022)
 

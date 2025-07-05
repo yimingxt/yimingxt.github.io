@@ -27,7 +27,7 @@ author_profile: true
 
 
 
-### Archetypal analysis
+## Archetypal analysis
 
 1. Katy Craig, Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, [Wasserstein archetypal analysis](https://link.springer.com/article/10.1007/s00245-024-10175-w), Appl. Math. Opt. (2024)
 2. Ruijian Han, Braxton Osting, Dong Wang, <strong>Yiming Xu</strong>, [Probabilistic methods for approximate archetypal analysis](https://academic.oup.com/imaiai/article/12/1/466/6576183), Inf. Inference (2023)

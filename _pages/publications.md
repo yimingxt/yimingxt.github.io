@@ -47,8 +47,9 @@ author_profile: true
 
 ## Conference Proceedings
 
-1. Zhitong Xu, Da Long, <strong>Yiming Xu</strong>, Guang Yang, Shandian Zhe, Houman Owhadi, [Toward efficient kernel-based solvers for nonlinear PDEs](https://arxiv.org/abs/2410.11165v1), ICML (2025)
-2. Shibo Li, Michael Penwarden, <strong>Yiming Xu</strong>, Conor Tillinghast, Akil Narayan, Robert M. Kirby, Shandian Zhe, [Meta learning of interface conditions for multi-domain physics-informed neural networks](https://openreview.net/pdf?id=e694Xvz6Q6), ICML (2023)
-3. Zheng Wang, <strong>Yiming Xu</strong>, Conor Tillinghast, Shibo Li, Akil Narayan, Shandian Zhe, [Nonparametric embeddings of sparse high-order interaction events](https://proceedings.mlr.press/v162/wang22ah.html), ICML (2022)
+1. Qiwei Yuan, Zhitong Xu, Yinghao Chen, <strong>Yiming Xu</strong>, Houman Owhadi, Shandian Zhe, [Tensor Gaussian Processes: Efficient Solvers for Nonlinear PDEs](https://arxiv.org/abs/2510.13772), arxiv (2025)
+2. Zhitong Xu, Da Long, <strong>Yiming Xu</strong>, Guang Yang, Shandian Zhe, Houman Owhadi, [Toward efficient kernel-based solvers for nonlinear PDEs](https://arxiv.org/abs/2410.11165v1), ICML (2025)
+3. Shibo Li, Michael Penwarden, <strong>Yiming Xu</strong>, Conor Tillinghast, Akil Narayan, Robert M. Kirby, Shandian Zhe, [Meta learning of interface conditions for multi-domain physics-informed neural networks](https://openreview.net/pdf?id=e694Xvz6Q6), ICML (2023)
+4. Zheng Wang, <strong>Yiming Xu</strong>, Conor Tillinghast, Shibo Li, Akil Narayan, Shandian Zhe, [Nonparametric embeddings of sparse high-order interaction events](https://proceedings.mlr.press/v162/wang22ah.html), ICML (2022)
 
 

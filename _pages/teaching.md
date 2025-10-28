@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: 
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
-redirect_from:
-  - /teach
 ---
 
 {% include base_path %}

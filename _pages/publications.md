@@ -20,7 +20,7 @@ author_profile: true
 
 ## Statistical ranking
 
-1. Shuxing Fang, Ruijian Han, Yuanhang Luo, <strong>Yiming Xu</strong>, [Recent advances in the Bradley--Terry Model: theory, algorithms, and applications](https://arxiv.org/abs/2601.14727), arxiv (2026)
+1. Shuxing Fang, Ruijian Han, Yuanhang Luo, <strong>Yiming Xu</strong>, [Recent advances in the Bradley--Terry model: theory, algorithms, and applications](https://arxiv.org/abs/2601.14727), arxiv (2026)
 2. Pinjun Dong, Ruijian Han, Binyan Jiang, <strong>Yiming Xu</strong>, [Statistical ranking with dynamic covariates](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkaf048/8230325?redirectedFrom=fulltext), J. R. Stat. Soc. Ser. B Methodol. (2025)
 3. Ruijian Han, <strong>Yiming Xu</strong>, [A unified analysis of likelihood-based estimators in the Plackett-Luce model](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-5/A-unified-analysis-of-likelihood-based-estimators-in-the-PlackettLuce/10.1214/25-AOS2530.short), Ann. Stat. (2025)
 4. Ruijian Han, Wenlu Tang, <strong>Yiming Xu</strong>, [Statistical inference for pairwise comparison models](https://arxiv.org/abs/2401.08463), arxiv (2024)
@@ -48,7 +48,7 @@ author_profile: true
 
 ## Conference Proceedings
 
-1. Qiwei Yuan, Zhitong Xu, Yinghao Chen, <strong>Yiming Xu</strong>, Houman Owhadi, Shandian Zhe, [Tensor Gaussian Processes: Efficient Solvers for Nonlinear PDEs](https://arxiv.org/abs/2510.13772), arxiv (2025)
+1. Qiwei Yuan, Zhitong Xu, Yinghao Chen, <strong>Yiming Xu</strong>, Houman Owhadi, Shandian Zhe, [Tensor Gaussian Processes: Efficient Solvers for Nonlinear PDEs](https://arxiv.org/abs/2510.13772), AISTATS (2026)
 2. Zhitong Xu, Da Long, <strong>Yiming Xu</strong>, Guang Yang, Shandian Zhe, Houman Owhadi, [Toward efficient kernel-based solvers for nonlinear PDEs](https://arxiv.org/abs/2410.11165v1), ICML (2025)
 3. Shibo Li, Michael Penwarden, <strong>Yiming Xu</strong>, Conor Tillinghast, Akil Narayan, Robert M. Kirby, Shandian Zhe, [Meta learning of interface conditions for multi-domain physics-informed neural networks](https://openreview.net/pdf?id=e694Xvz6Q6), ICML (2023)
 4. Zheng Wang, <strong>Yiming Xu</strong>, Conor Tillinghast, Shibo Li, Akil Narayan, Shandian Zhe, [Nonparametric embeddings of sparse high-order interaction events](https://proceedings.mlr.press/v162/wang22ah.html), ICML (2022)

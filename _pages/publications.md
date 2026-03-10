@@ -11,7 +11,7 @@ author_profile: true
 
 1. Ben Adcock, Bernhard Hientzsch, Akil Narayan, <strong>Yiming Xu</strong>, [Hybrid least squares for learning functions from highly noisy data](https://arxiv.org/abs/2507.02215), arxiv (2025)
 2. Tom Alberts, <strong>Yiming Xu</strong>, Qiang Ye, [Joint stochastic localization and applications](https://arxiv.org/abs/2505.13410), arxiv (2025)
-3. Osman A. Malik, <strong>Yiming Xu</strong>, Nuojin Cheng, Stephen Becker, Alireza Doostan, Akil Narayan, [Fast algorithms for least square problems with Kronecker lower subsets](https://arxiv.org/abs/2209.05662), arxiv (2025)
+3. Osman A. Malik, <strong>Yiming Xu</strong>, Nuojin Cheng, Stephen Becker, Alireza Doostan, Akil Narayan, [Fast algorithms for least square problems with Kronecker lower subsets](https://link.springer.com/article/10.1007/s10915-026-03224-9), J. Sci. Comput. (2026)
 4. Reza Gheissari, Aukosh Jagannath, <strong>Yiming Xu</strong>, [Finding planted cliques using gradient descent](https://epubs.siam.org/doi/abs/10.1137/24M1680489), SIAM J. Math. Data Sci. (2025)
 5. <strong>Yiming Xu</strong>, Akil Narayan, [Randomized weakly admissible meshes](https://www.sciencedirect.com/science/article/abs/pii/S0021904522001071), J. Approx. Theory (2023)
 6. <strong>Yiming Xu</strong>, Akil Narayan, Hoang Tran, Clayton G. Webster, [Analysis of the ratio of l1 and l2 norms in compressed sensing](https://www.sciencedirect.com/science/article/abs/pii/S1063520321000567), Appl. Comput. Harmon. Anal. (2021)
@@ -38,7 +38,7 @@ author_profile: true
 
 ## Multifidelity methods 
 
-1. Thomas Dixon, Alex Gorodetsky, John Jakeman, Akil Narayan, <strong>Yiming Xu</strong>, [Optimally balancing exploration and exploitation to automate multi-fidelity statistical estimation](https://arxiv.org/abs/2505.09828), arxiv (2025)
+1. Thomas Dixon, Alex Gorodetsky, John Jakeman, Akil Narayan, <strong>Yiming Xu</strong>, [Optimally balancing exploration and exploitation to automate multi-fidelity statistical estimation](https://arxiv.org/abs/2505.09828), SIAM/ASA J. Uncertain. Quantif. (to appear)
 2. Ruijian Han, Boris Kramer, Dongjin Lee, Akil Narayan, <strong>Yiming Xu</strong>, [An approximate control variates approach to multifidelity distribution estimation](https://epubs.siam.org/doi/abs/10.1137/23M1584307?journalCode=sjuqa3), SIAM/ASA J. Uncertain. Quantif. (2024)
 3. Nuojin Cheng, Osman A. Malik, <strong>Yiming Xu</strong>, Stephen Becker, Alireza Doostan, Akil Narayan, [Subsampling of parametric models with bi-fidelity boosting](https://epubs.siam.org/doi/abs/10.1137/22M1524989?journalCode=sjuqa3), SIAM/ASA J. Uncertain. Quantif. (2024)
 4. <strong>Yiming Xu</strong>, Akil Narayan, [Budget-limited distribution learning in multifidelity problems](https://link.springer.com/article/10.1007/s00211-022-01337-5), Numer. Math. (2023)

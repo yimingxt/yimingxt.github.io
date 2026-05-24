@@ -1,12 +1,40 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Work"
 permalink: /publications/
 author_profile: true
 ---
  
 
 
+## Random approximation and sampling
+
+1. Tom Alberts, <strong>Yiming Xu</strong>, Qiang Ye, [Joint stochastic localization and applications](https://arxiv.org/abs/2505.13410), arxiv (2026)
+
+2. Ben Adcock, Bernhard Hientzsch, Akil Narayan, <strong>Yiming Xu</strong>, [Hybrid least squares for learning functions from highly noisy data](https://arxiv.org/abs/2507.02215), arxiv (2025)
+  
+3. <strong>Yiming Xu</strong>, Akil Narayan, [Randomized weakly admissible meshes](https://www.sciencedirect.com/science/article/abs/pii/S0021904522001071), J. Approx. Theory (2023)
+
+---
+
+## Statistical ranking
+
+1. Pinjun Dong, Ruijian Han, Binyan Jiang, <strong>Yiming Xu</strong>, [Statistical ranking with dynamic covariates](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkaf048/8230325?redirectedFrom=fulltext), J. R. Stat. Soc. Ser. B Methodol. (2026)
+
+2. Ruijian Han, <strong>Yiming Xu</strong>, [A unified analysis of likelihood-based estimators in the Plackett-Luce model](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-5/A-unified-analysis-of-likelihood-based-estimators-in-the-PlackettLuce/10.1214/25-AOS2530.short), Ann. Stat. (2025)
+
+---
+
+## Multifidelity methods
+
+1. Ruijian Han, Boris Kramer, Dongjin Lee, Akil Narayan, <strong>Yiming Xu</strong>, [An approximate control variates approach to multifidelity distribution estimation](https://epubs.siam.org/doi/abs/10.1137/23M1584307?journalCode=sjuqa3), SIAM/ASA J. Uncertain. Quantif. (2024)
+
+2. <strong>Yiming Xu</strong>, Vahid Keshavarzzadeh, Robert M. Kirby, Akil Narayan, [A bandit-learning approach to multifidelity approximation](https://epubs.siam.org/doi/abs/10.1137/21M1408312?journalCode=sjoce3), SIAM J. Sci. Comput. (2022)
+   
+
+
+
+<!--
 ## Random approximation and sampling
 
 1. Ben Adcock, Bernhard Hientzsch, Akil Narayan, <strong>Yiming Xu</strong>, [Hybrid least squares for learning functions from highly noisy data](https://arxiv.org/abs/2507.02215), arxiv (2025)
@@ -53,5 +81,5 @@ author_profile: true
 2. Zhitong Xu, Da Long, <strong>Yiming Xu</strong>, Guang Yang, Shandian Zhe, Houman Owhadi, [Toward efficient kernel-based solvers for nonlinear PDEs](https://arxiv.org/abs/2410.11165v1), ICML (2025)
 3. Shibo Li, Michael Penwarden, <strong>Yiming Xu</strong>, Conor Tillinghast, Akil Narayan, Robert M. Kirby, Shandian Zhe, [Meta learning of interface conditions for multi-domain physics-informed neural networks](https://openreview.net/pdf?id=e694Xvz6Q6), ICML (2023)
 4. Zheng Wang, <strong>Yiming Xu</strong>, Conor Tillinghast, Shibo Li, Akil Narayan, Shandian Zhe, [Nonparametric embeddings of sparse high-order interaction events](https://proceedings.mlr.press/v162/wang22ah.html), ICML (2022)
-
+-->
 

@@ -16,7 +16,7 @@ I did my postdoc at the University of Waterloo (2023-2024) with <a href="https:/
 </p>
 
 <p>
-My research interests lie in the mathematics of data. Specifically, I work on random approximation, statistical ranking, and multifidelity methods. As a problem-driven researcher, I enjoy learning new ideas and am open to potential collaborations. 
+My research interests lie in the mathematics of data. Specifically, I work on random sampling (randomized least squares and algorithmic stochastic localization), ranking, and multifidelity methods. As a problem-driven researcher, I enjoy learning new ideas and am open to potential collaborations. 
 </p>
 
 <p>

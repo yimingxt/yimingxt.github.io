@@ -8,11 +8,12 @@ author_profile: true
 {% include base_path %}
 
 ## Current Teaching
-I will be teaching MA 420: Intro to Stochastic Processes in Spring 2026. 
+I will be teaching MA 416: Introduction to Optimization and MA 213: Calculus III in Fall 2026. 
 
 ## Past Teaching
 
 ### Instructor
+* MA 420 - Intro to Stochastic Processes (Spring 2026)
 * CS/MA 522 - Matrix Theory and Numeric Linear Algebra (Fall 2025)
 * MA 323 - Math Intro to Data Science (Fall 2025)
 * MA/STA 417 - Decision Making Under Uncertainty (Spring 2025)

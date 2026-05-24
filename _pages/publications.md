@@ -10,9 +10,7 @@ author_profile: true
 ## Random approximation and sampling
 
 1. Tom Alberts, <strong>Yiming Xu</strong>, Qiang Ye, [Joint stochastic localization and applications](https://arxiv.org/abs/2505.13410), arxiv (2026)
-
-2. Ben Adcock, Bernhard Hientzsch, Akil Narayan, <strong>Yiming Xu</strong>, [Hybrid least squares for learning functions from highly noisy data](https://arxiv.org/abs/2507.02215), arxiv (2025)
-  
+2. Ben Adcock, Bernhard Hientzsch, Akil Narayan, <strong>Yiming Xu</strong>, [Hybrid least squares for learning functions from highly noisy data](https://arxiv.org/abs/2507.02215), arxiv (2025)  
 3. <strong>Yiming Xu</strong>, Akil Narayan, [Randomized weakly admissible meshes](https://www.sciencedirect.com/science/article/abs/pii/S0021904522001071), J. Approx. Theory (2023)
 
 ---
@@ -20,15 +18,14 @@ author_profile: true
 ## Statistical ranking
 
 1. Pinjun Dong, Ruijian Han, Binyan Jiang, <strong>Yiming Xu</strong>, [Statistical ranking with dynamic covariates](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkaf048/8230325?redirectedFrom=fulltext), J. R. Stat. Soc. Ser. B Methodol. (2026)
-
 2. Ruijian Han, <strong>Yiming Xu</strong>, [A unified analysis of likelihood-based estimators in the Plackett-Luce model](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-5/A-unified-analysis-of-likelihood-based-estimators-in-the-PlackettLuce/10.1214/25-AOS2530.short), Ann. Stat. (2025)
+3. Ruijian Han, <strong>Yiming Xu</strong>, Kani Chen, [A general pairwise comparison model for extremely sparse networks](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2053137?journalCode=uasa20), J. Amer. Statist. Assoc. (2023)
 
 ---
 
 ## Multifidelity methods
 
 1. Ruijian Han, Boris Kramer, Dongjin Lee, Akil Narayan, <strong>Yiming Xu</strong>, [An approximate control variates approach to multifidelity distribution estimation](https://epubs.siam.org/doi/abs/10.1137/23M1584307?journalCode=sjuqa3), SIAM/ASA J. Uncertain. Quantif. (2024)
-
 2. <strong>Yiming Xu</strong>, Vahid Keshavarzzadeh, Robert M. Kirby, Akil Narayan, [A bandit-learning approach to multifidelity approximation](https://epubs.siam.org/doi/abs/10.1137/21M1408312?journalCode=sjoce3), SIAM J. Sci. Comput. (2022)
    
 

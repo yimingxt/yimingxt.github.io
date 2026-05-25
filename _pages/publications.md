@@ -10,8 +10,9 @@ author_profile: true
 ## Random sampling
 
 1. Tom Alberts, <strong>Yiming Xu</strong>, Qiang Ye, [Joint stochastic localization and applications](https://arxiv.org/abs/2505.13410), arxiv (2026)
-2. Ben Adcock, Bernhard Hientzsch, Akil Narayan, <strong>Yiming Xu</strong>, [Hybrid least squares for learning functions from highly noisy data](https://arxiv.org/abs/2507.02215), arxiv (2025)  
-3. <strong>Yiming Xu</strong>, Akil Narayan, [Randomized weakly admissible meshes](https://www.sciencedirect.com/science/article/abs/pii/S0021904522001071), J. Approx. Theory (2023)
+2. Ben Adcock, Bernhard Hientzsch, Akil Narayan, <strong>Yiming Xu</strong>, [Hybrid least squares for learning functions from highly noisy data](https://arxiv.org/abs/2507.02215), arxiv (2025)
+3. Reza Gheissari, Aukosh Jagannath, <strong>Yiming Xu</strong>, [Finding planted cliques using gradient descent](https://epubs.siam.org/doi/abs/10.1137/24M1680489), SIAM J. Math. Data Sci. (2025) 
+4. <strong>Yiming Xu</strong>, Akil Narayan, [Randomized weakly admissible meshes](https://www.sciencedirect.com/science/article/abs/pii/S0021904522001071), J. Approx. Theory (2023)
 
 ---
 

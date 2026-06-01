@@ -47,6 +47,4 @@ My research interests lie in the mathematics of data. Specifically, I work on ra
 
 
 
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://yimingxt.github.io/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
-</a>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=230&t=n&d=2oex5D8qKbBfWJUKlE7fKLMjNMnbSwuTVbAniKBUy8w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>

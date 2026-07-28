@@ -19,11 +19,6 @@ I did my postdoc in the Department of Statistics and Actuarial Science at Univer
 My research interests lie in the mathematics of data. Specifically, I work on random sampling (randomized least squares and algorithmic stochastic localization), ranking, and multifidelity methods. As a problem-driven researcher, I enjoy learning new ideas and am open to potential collaborations. 
 </p>
 
-<p style="margin-top: 2em;">
-<strong>Prospective students:</strong> All Ph.D. applications are handled by the graduate recruiting committee. If you are interested in working with me, you are welcome to mention my name in your application. Please do not send AI-generated emails expressing interest in my research unless you have genuinely read my work. If you are already a student at the University of Kentucky and would like to learn more about my research, please feel free to reach out—I would be happy to chat.
-</p>
-
-
 
 
 <p>
@@ -54,4 +49,4 @@ My research interests lie in the mathematics of data. Specifically, I work on ra
 
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MjTB3b1VxEHOztfZup0zWlRNBpP2UosLKLRnSCP3JUA&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MjTB3b1VxEHOztfZup0zWlRNBpP2UosLKLRnSCP3JUA&cl=ffffff&w=180"></script>

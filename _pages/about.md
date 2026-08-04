@@ -21,11 +21,11 @@ My research interests lie in the mathematics of data. Specifically, I work on ra
 
 ## Selected Work
 
-* Ben Adcock, Bernhard Hientzsch, Akil Narayan, <strong>Yiming Xu</strong>, [Hybrid least squares for learning functions from highly noisy data](https://arxiv.org/abs/2507.02215), SIAM Journal on Mathematics of Data Science (to appear)
-* Thomas Dixon, Alex Gorodetsky, John Jakeman, Akil Narayan, <strong>Yiming Xu</strong>, [Optimally balancing exploration and exploitation to automate multi-fidelity statistical estimation](https://epubs.siam.org/doi/10.1137/25M1761744), SIAM/ASA Journal on Uncertainty Quantification (2026)
-* Pinjun Dong, Ruijian Han, Binyan Jiang, <strong>Yiming Xu</strong>, [Statistical ranking with dynamic covariates](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkaf048/8230325?redirectedFrom=fulltext), Journal of the Royal Statistical Society: Series B (2026)
 * Tom Alberts, <strong>Yiming Xu</strong>, Qiang Ye, [Joint stochastic localization and applications](https://arxiv.org/abs/2505.13410), arxiv (2025)
+* Ben Adcock, Bernhard Hientzsch, Akil Narayan, <strong>Yiming Xu</strong>, [Hybrid least squares for learning functions from highly noisy data](https://arxiv.org/abs/2507.02215), SIAM Journal on Mathematics of Data Science (to appear)
+* Pinjun Dong, Ruijian Han, Binyan Jiang, <strong>Yiming Xu</strong>, [Statistical ranking with dynamic covariates](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkaf048/8230325?redirectedFrom=fulltext), Journal of the Royal Statistical Society: Series B (2026)
 * Ruijian Han, <strong>Yiming Xu</strong>, [A unified analysis of likelihood-based estimators in the Plackett-Luce model](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-5/A-unified-analysis-of-likelihood-based-estimators-in-the-PlackettLuce/10.1214/25-AOS2530.short), The Annals of Statistics (2025)
+* Ruijian Han, Boris Kramer, Dongjin Lee, Akil Narayan, <strong>Yiming Xu</strong>, [An approximate control variates approach to multifidelity distribution estimation](https://epubs.siam.org/doi/abs/10.1137/23M1584307?journalCode=sjuqa3), SIAM/ASA J. Uncertain. Quantif. (2024)
 
 ## Teaching
 
@@ -67,7 +67,7 @@ My research interests lie in the mathematics of data. Specifically, I work on ra
 
 ## Multifidelity methods 
 
-1. Thomas Dixon, Alex Gorodetsky, John Jakeman, Akil Narayan, <strong>Yiming Xu</strong>, [Optimally balancing exploration and exploitation to automate multi-fidelity statistical estimation](https://arxiv.org/abs/2505.09828), SIAM/ASA J. Uncertain. Quantif. (to appear)
+1. Thomas Dixon, Alex Gorodetsky, John Jakeman, Akil Narayan, <strong>Yiming Xu</strong>, [Optimally balancing exploration and exploitation to automate multi-fidelity statistical estimation](https://epubs.siam.org/doi/10.1137/25M1761744), SIAM/ASA Journal on Uncertainty Quantification (2026)
 2. Ruijian Han, Boris Kramer, Dongjin Lee, Akil Narayan, <strong>Yiming Xu</strong>, [An approximate control variates approach to multifidelity distribution estimation](https://epubs.siam.org/doi/abs/10.1137/23M1584307?journalCode=sjuqa3), SIAM/ASA J. Uncertain. Quantif. (2024)
 3. Nuojin Cheng, Osman A. Malik, <strong>Yiming Xu</strong>, Stephen Becker, Alireza Doostan, Akil Narayan, [Subsampling of parametric models with bi-fidelity boosting](https://epubs.siam.org/doi/abs/10.1137/22M1524989?journalCode=sjuqa3), SIAM/ASA J. Uncertain. Quantif. (2024)
 4. <strong>Yiming Xu</strong>, Akil Narayan, [Budget-limited distribution learning in multifidelity problems](https://link.springer.com/article/10.1007/s00211-022-01337-5), Numer. Math. (2023)

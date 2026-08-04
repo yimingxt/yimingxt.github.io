@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
 * MA 416 - Introduction to Optimization (Fall 2026)
 * MA 213 - Calculus III (Fall 2026)
 * MA 420 - Intro to Stochastic Processes (Spring 2026)

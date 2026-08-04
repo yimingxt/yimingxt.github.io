@@ -8,7 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Current Teaching
-I will be teaching MA 416: Introduction to Optimization and MA 213: Calculus III in Fall 2026. 
+* MA 416 - Introduction to Optimization
+* MA 213 - Calculus III
 
 ## Past Teaching
 * MA 420 - Intro to Stochastic Processes (Spring 2026)

@@ -7,11 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-## Current Teaching
-* MA 416 - Introduction to Optimization
-* MA 213 - Calculus III
-
-## Past Teaching
+* MA 416 - Introduction to Optimization (Fall 2026)
+* MA 213 - Calculus III (Fall 2026)
 * MA 420 - Intro to Stochastic Processes (Spring 2026)
 * CS/MA 522 - Matrix Theory and Numeric Linear Algebra (Fall 2025)
 * MA 323 - Math Intro to Data Science (Fall 2025)

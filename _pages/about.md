@@ -19,7 +19,7 @@ I spent one year as a postdoc in the Department of Statistics and Actuarial Scie
 My research interests lie in the mathematics of data. Specifically, I work on ranking, randomized approximation, and multifidelity methods. I am supported in part by NSF grant no. DMS-2607989.
 </p>
 
-## Publications
+## Selected Work
 
 * Ben Adcock, Bernhard Hientzsch, Akil Narayan, <strong>Yiming Xu</strong>, [Hybrid least squares for learning functions from highly noisy data](https://arxiv.org/abs/2507.02215), SIAM Journal on Mathematics of Data Science (to appear)
 * Thomas Dixon, Alex Gorodetsky, John Jakeman, Akil Narayan, <strong>Yiming Xu</strong>, [Optimally balancing exploration and exploitation to automate multi-fidelity statistical estimation](https://epubs.siam.org/doi/10.1137/25M1761744), SIAM/ASA Journal on Uncertainty Quantification (2026)

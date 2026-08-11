@@ -17,6 +17,7 @@ My research interests lie in the mathematics of data. Specifically, I work on ra
 
 ## Selected Work
 
+* Hengrui Luo, <strong>Yiming Xu</strong>, [Balancing fractional Brownian motion](https://arxiv.org/abs/2608.09465), arxiv (2026)
 * Tom Alberts, <strong>Yiming Xu</strong>, Qiang Ye, [Joint stochastic localization and applications](https://arxiv.org/abs/2505.13410), arxiv (2025)
 * Ben Adcock, Bernhard Hientzsch, Akil Narayan, <strong>Yiming Xu</strong>, [Hybrid least squares for learning functions from highly noisy data](https://arxiv.org/abs/2507.02215), SIAM Journal on Mathematics of Data Science (to appear)
 * Pinjun Dong, Ruijian Han, Binyan Jiang, <strong>Yiming Xu</strong>, [Statistical ranking with dynamic covariates](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkaf048/8230325?redirectedFrom=fulltext), Journal of the Royal Statistical Society: Series B (2026)
